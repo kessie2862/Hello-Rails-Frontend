@@ -96,7 +96,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  https://github.com/ab-noori/Hello-React-Frontend.git
+  https://github.com/kessie2862/Hello-React-Frontend.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +105,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-    cd EduPlanner-Frontend
+    cd Hello-React-Frontent
     npm install
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,7 +145,7 @@ To run tests, run the following command:
 
   Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the [issues page](https://github.com/kessie2862/Hello-Rails-Frontend/issues).
+  Feel free to check the [issues page](https://github.com/kessie2862/Hello-React-Frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,6 +168,6 @@ To run tests, run the following command:
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/kessie2862/Hello-Rails-Frontend/blob/frontend/LICENSE) licensed.
+This project is [MIT](https://github.com/kessie2862/Hello-React-Frontend/blob/frontend/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
